@@ -1,0 +1,6 @@
+{
+    "Celo":"https://explorer.celo.org/api",
+    "Fantom":"https://api.ftmscan.com/api",
+    "Polygon":"https://api.polygonscan.com/api",
+    "BSC":"https://api.bscscan.com/api"
+}

@@ -1,0 +1,11 @@
+{ 
+    "ETH":"eth",
+    "BSC":"bsc",
+    "Polygon":"matic",
+    "Fantom":"ftm",
+    "Avalanche":"avax",
+    "MoonRiver":"movr",
+    "CRO":"cro",
+    "HT":"ht",
+    "Celo":"celo"
+}
